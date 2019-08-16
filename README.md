@@ -21,6 +21,7 @@
 |38  | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [Python](Problems/count-and-say.py) |
 |50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](Problems/powx-n.py) |
 |53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Python](Problems/maximum-subarray.py) |
+|58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](Problems/length-of-last-word.py)
 |66  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](Problems/plus-one.py) |
 |67  | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Problems/add-binary.py) |
 |69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Python](Problems/sqrtx.py) |
