@@ -6,6 +6,7 @@
 |2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](Problems/add-two-numbers.py) |
 |3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Python](Problems/longest-substring-without-repeating-characters.py) |
 |4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Python](Problems/median-of-two-sorted-arrays.py)
+|5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Python](Problems/longest-palindromic-substring.py)
 |7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Python](Problems/reverse-integer.py) |
 |9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](Problems/palindrome-number.py) |
 |11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](Problems/container-with-most-water.py) |
@@ -31,4 +32,6 @@
 |374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Python](Problems/guess-number-higher-or-lower.py) |
 |375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | Medium | [Python](Problems/guess-number-higher-or-lower-ii.py) |
 |583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [Python](Problems/delete-operation-for-two-strings.py) |
+|516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [Python](Problems/longest-palindromic-subsequence.py)
+|647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | [Python](Problems/palindromic-substrings.py)
 |686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](Problems/repeated-string-match.py) |
