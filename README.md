@@ -9,6 +9,7 @@
 |5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Python](Problems/longest-palindromic-substring.py)
 |6   | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Python](Problems/zigzag-conversion.py)
 |7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Python](Problems/reverse-integer.py) |
+|8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Python](Problems/string-to-integer-atoi.py)
 |9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](Problems/palindrome-number.py) |
 |11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](Problems/container-with-most-water.py) |
 |13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](Problems/roman-to-integer.py) |
@@ -27,6 +28,7 @@
 |66  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](Problems/plus-one.py) |
 |67  | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Problems/add-binary.py) |
 |69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Python](Problems/sqrtx.py) |
+|70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Python](Problems/climbing-stairs.py)
 |122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Python](Problems/best-time-to-buy-and-sell-stock-ii.py) |
 |167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [Python](Problems/two-sum-ii-input-array-is-sorted.py) |
 |278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Python](Problems/first-bad-version.py) |
